@@ -12,3 +12,5 @@ never show any part of the drone body,
 subtle natural sensor noise,
 pronounced but realistic camera shake during fast sections,
 time 10:30 AM natural hard sunlight, deep shadows.
+```
+gini berarti bro
